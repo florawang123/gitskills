@@ -2,4 +2,8 @@
 
 creating a branch is so quick
 
-haha what my input
+<<<<<<< HEAD
+haha what my input new things
+=======
+creating a new feature1 branch
+>>>>>>> feature1
